@@ -24,7 +24,7 @@ import java.util.List;
  * 地址薄 前端控制器
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-06
  */
 @RestController("consumerAddressBookController")

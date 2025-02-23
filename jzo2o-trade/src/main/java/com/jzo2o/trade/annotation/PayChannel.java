@@ -5,7 +5,7 @@ import com.jzo2o.api.trade.enums.PayChannelEnum;
 import java.lang.annotation.*;
 
 /**
- * @author itcast
+ *
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

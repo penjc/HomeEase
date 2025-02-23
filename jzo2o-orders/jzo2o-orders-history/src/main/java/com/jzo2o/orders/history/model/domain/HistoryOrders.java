@@ -21,7 +21,7 @@ import lombok.experimental.Accessors;
  * 订单表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-11
  */
 @Data

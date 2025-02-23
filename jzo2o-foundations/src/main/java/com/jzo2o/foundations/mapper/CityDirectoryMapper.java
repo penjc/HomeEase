@@ -8,7 +8,7 @@ import com.jzo2o.foundations.model.domain.CityDirectory;
  * 城市编码表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-04
  */
 public interface CityDirectoryMapper extends BaseMapper<CityDirectory> {

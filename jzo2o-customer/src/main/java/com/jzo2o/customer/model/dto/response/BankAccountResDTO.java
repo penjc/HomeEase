@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  * 银行账户响应体
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 @Data

@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 
 /**
- * @author itcast
+ *
  */
 @FeignClient(contextId = "jzo2o-customer", value = "jzo2o-customer", path = "/customer/inner/evaluation")
 public interface EvaluationApi {

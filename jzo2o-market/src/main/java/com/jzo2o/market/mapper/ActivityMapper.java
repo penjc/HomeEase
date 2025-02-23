@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  *  Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-16
  */
 public interface ActivityMapper extends BaseMapper<Activity> {

@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 区域业务配置 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-21
  */
 public interface ConfigRegionMapper extends BaseMapper<ConfigRegion> {

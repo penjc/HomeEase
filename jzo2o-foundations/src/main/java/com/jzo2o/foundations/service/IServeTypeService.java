@@ -11,7 +11,7 @@ import com.jzo2o.foundations.model.dto.response.ServeTypeResDTO;
 import java.util.List;
 
 /**
- * @author itcast
+ *
  */
 public interface IServeTypeService extends IService<ServeType> {
 

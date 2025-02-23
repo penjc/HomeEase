@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 机构下属服务人员 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-18
  */
 public interface InstitutionStaffMapper extends BaseMapper<InstitutionStaff> {

@@ -10,7 +10,7 @@ import java.util.List;
  * 服务任务 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-14
  */
 public interface IHistoryOrdersServeSyncCommonService extends IService<HistoryOrdersServeSync> {

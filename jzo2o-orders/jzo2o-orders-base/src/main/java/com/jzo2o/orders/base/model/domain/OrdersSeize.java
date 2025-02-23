@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 抢单池
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-15
  */
 @Data

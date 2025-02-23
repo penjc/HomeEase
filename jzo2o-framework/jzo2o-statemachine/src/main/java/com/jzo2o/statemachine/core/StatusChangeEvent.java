@@ -3,7 +3,7 @@ package com.jzo2o.statemachine.core;
 /**
  * 状态变量事件抽象接口
  *
- * @author itcast
+ *
  */
 
 public interface StatusChangeEvent {

@@ -5,7 +5,7 @@ import com.jzo2o.statemachine.core.StatusDefine;
 /**
  * 业务数据服务层
  *
- * @author itcast
+ *
  * @create 2023/8/18 20:32
  **/
 public interface BizSnapshotService {

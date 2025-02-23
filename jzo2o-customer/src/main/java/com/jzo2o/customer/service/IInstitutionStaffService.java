@@ -16,7 +16,7 @@ import java.util.List;
  * 机构下属服务人员 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-18
  */
 public interface IInstitutionStaffService extends IService<InstitutionStaff> {

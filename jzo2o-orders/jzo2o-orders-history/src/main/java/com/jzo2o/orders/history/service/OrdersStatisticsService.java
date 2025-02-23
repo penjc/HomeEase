@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 /**
- * @author itcast
+ *
  */
 public interface OrdersStatisticsService {
     /**

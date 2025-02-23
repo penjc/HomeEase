@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 /**
  * 继承自 hutool 的BeanUtil，增加了bean转换时自定义转换器的功能
  *
- * @author itcast
+ *
  */
 public class BeanUtils extends BeanUtil {
 

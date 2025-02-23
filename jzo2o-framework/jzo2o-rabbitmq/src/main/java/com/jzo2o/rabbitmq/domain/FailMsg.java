@@ -13,7 +13,7 @@ import java.io.Serializable;
  * 失败消息
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-11
  */
 @Data

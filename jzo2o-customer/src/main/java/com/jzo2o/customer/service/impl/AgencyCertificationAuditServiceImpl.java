@@ -37,7 +37,7 @@ import java.time.LocalDateTime;
  * 机构认证审核表 服务实现类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 @Service

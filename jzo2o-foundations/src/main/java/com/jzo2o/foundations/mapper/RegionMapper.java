@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 区域表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 public interface RegionMapper extends BaseMapper<Region> {

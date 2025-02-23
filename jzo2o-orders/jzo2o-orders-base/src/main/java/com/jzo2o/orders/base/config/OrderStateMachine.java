@@ -20,7 +20,7 @@ import static com.jzo2o.orders.base.constants.RedisConstants.RedisKey.ORDERS;
 /**
  * 订单状态机
  *
- * @author itcast
+ *
  * @create 2023/8/4 11:20
  **/
 @Component

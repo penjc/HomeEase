@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Param;
  * 服务任务 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-02
  */
 public interface OrdersServeMapper extends BaseMapper<OrdersServe> {

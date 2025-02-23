@@ -24,7 +24,7 @@ import java.time.temporal.ChronoUnit;
 /**
  * 运营端取消已完成的订单
  *
- * @author itcast
+ *
  * @create 2023/8/7 17:10
  **/
 @Component("4:FINISHED")

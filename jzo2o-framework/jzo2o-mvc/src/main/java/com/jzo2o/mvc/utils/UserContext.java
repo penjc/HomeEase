@@ -5,7 +5,7 @@ import com.jzo2o.common.model.CurrentUserInfo;
 /**
  * 用户信息上下文，主要存储用户id
  *
- * @author itcast
+ *
  */
 public class UserContext {
     private static final ThreadLocal<CurrentUserInfo> THREAD_LOCAL_USER = new ThreadLocal<>();

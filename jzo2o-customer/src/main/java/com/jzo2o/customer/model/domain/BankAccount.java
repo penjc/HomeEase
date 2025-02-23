@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 银行账户
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 @Data

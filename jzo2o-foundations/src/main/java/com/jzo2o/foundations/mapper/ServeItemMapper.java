@@ -15,7 +15,7 @@ import java.util.List;
  * 服务表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 public interface ServeItemMapper extends BaseMapper<ServeItem> {

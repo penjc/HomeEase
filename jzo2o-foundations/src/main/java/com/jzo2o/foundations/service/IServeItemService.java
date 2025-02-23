@@ -16,7 +16,7 @@ import java.util.List;
  * 服务表 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 public interface IServeItemService extends IService<ServeItem> {

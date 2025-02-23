@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 机构认证审核表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 @Data

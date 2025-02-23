@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 /**
- * @author itcast
+ *
  * @Description：交易渠道表
  */
 @Data

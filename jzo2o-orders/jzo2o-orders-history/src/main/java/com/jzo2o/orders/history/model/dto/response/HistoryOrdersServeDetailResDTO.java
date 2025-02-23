@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /**
- * @author itcast
+ *
  */
 @Data
 @ApiModel("服务单详情明细")

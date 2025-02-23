@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 地址薄 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-06
  */
 public interface AddressBookMapper extends BaseMapper<AddressBook> {

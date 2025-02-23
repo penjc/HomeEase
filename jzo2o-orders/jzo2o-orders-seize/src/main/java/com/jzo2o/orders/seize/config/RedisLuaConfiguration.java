@@ -7,7 +7,7 @@ import org.springframework.data.redis.core.script.DefaultRedisScript;
 import org.springframework.scripting.support.ResourceScriptSource;
 
 /**
- * @author itcast
+ *
  */
 @Configuration
 public class RedisLuaConfiguration {

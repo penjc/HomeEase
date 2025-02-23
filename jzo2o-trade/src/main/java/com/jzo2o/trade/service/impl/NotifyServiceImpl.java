@@ -40,7 +40,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 支付成功的通知处理
  *
- * @author itcast
+ *
  */
 @Slf4j
 @Service

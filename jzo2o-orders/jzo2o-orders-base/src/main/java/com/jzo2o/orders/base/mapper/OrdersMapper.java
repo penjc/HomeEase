@@ -13,7 +13,7 @@ import java.time.LocalDateTime;
  * 订单表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-02
  */
 public interface OrdersMapper extends BaseMapper<Orders> {

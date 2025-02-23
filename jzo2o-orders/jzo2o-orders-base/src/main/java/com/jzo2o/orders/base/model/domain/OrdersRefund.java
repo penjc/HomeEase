@@ -15,7 +15,7 @@ import lombok.experimental.Accessors;
  * 订单退款表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-07
  */
 @Data

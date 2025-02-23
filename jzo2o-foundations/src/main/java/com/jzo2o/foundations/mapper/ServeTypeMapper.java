@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 服务类型表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 public interface ServeTypeMapper extends BaseMapper<ServeType> {

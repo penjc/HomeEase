@@ -15,7 +15,7 @@ import lombok.experimental.Accessors;
  * 日统计表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-21
  */
 @Data

@@ -12,7 +12,7 @@ import java.util.List;
  * 派单池 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-08
  */
 public interface OrdersDispatchMapper extends BaseMapper<OrdersDispatch> {

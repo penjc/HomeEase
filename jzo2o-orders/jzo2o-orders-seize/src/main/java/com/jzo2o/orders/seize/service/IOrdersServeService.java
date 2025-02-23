@@ -12,7 +12,7 @@ import java.util.List;
  * 服务任务 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-02
  */
 public interface IOrdersServeService extends IService<OrdersServe> {

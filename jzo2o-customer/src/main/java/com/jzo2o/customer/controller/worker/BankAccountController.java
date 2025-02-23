@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 
 /**
- * @author itcast
+ *
  */
 @RestController("workerBankAccountController")
 @RequestMapping("/worker/bank-account")

@@ -25,7 +25,7 @@ import static com.jzo2o.orders.base.constants.OrderConstants.PRODUCT_APP_ID;
 /**
  * 监听mq消息，接收支付结果
  *
- * @author itcast
+ *
  **/
 @Slf4j
 @Component

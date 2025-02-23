@@ -15,7 +15,7 @@ import java.util.List;
  * 服务任务 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-11
  */
 public interface IHistoryOrdersServeService extends IService<HistoryOrdersServe> {

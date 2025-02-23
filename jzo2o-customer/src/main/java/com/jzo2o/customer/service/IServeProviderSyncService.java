@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 评分同步列表 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-07
  */
 public interface IServeProviderSyncService extends IService<ServeProviderSync> {

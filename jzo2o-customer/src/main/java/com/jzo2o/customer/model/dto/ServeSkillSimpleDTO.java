@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 服务技能简略信息
  *
- * @author itcast
+ *
  * @create 2023/9/6 17:12
  **/
 @Data

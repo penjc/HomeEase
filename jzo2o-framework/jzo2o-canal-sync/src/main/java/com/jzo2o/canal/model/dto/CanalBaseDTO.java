@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  * canal监听传递参数
- * @author itcast
+ *
  */
 @Data
 @NoArgsConstructor

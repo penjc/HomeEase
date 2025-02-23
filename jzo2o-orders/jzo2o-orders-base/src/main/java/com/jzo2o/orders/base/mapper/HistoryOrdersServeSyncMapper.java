@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * 服务任务 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-14
  */
 public interface HistoryOrdersServeSyncMapper extends BaseMapper<HistoryOrdersServeSync> {

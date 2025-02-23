@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author itcast
+ *
  */
 @Component
 @Slf4j

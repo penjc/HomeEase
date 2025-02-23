@@ -3,7 +3,7 @@ package com.jzo2o.statemachine.persist;
 import com.jzo2o.statemachine.core.StatusDefine;
 
 /**
- * @author itcast
+ *
  */
 public interface StateMachinePersister {
 

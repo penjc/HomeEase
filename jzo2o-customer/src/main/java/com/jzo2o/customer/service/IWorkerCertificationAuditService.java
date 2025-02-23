@@ -14,7 +14,7 @@ import com.jzo2o.customer.model.dto.response.WorkerCertificationAuditResDTO;
  * 服务人员认证审核表 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 public interface IWorkerCertificationAuditService extends IService<WorkerCertificationAudit> {

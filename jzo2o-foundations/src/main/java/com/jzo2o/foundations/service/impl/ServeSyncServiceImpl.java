@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
  * 服务同步表 服务实现类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-10
  */
 @Service

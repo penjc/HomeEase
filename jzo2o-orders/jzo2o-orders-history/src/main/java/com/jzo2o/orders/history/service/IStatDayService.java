@@ -11,7 +11,7 @@ import java.util.List;
  * 日统计表 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-21
  */
 public interface IStatDayService extends IService<StatDay> {

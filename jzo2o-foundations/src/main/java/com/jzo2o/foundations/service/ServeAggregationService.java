@@ -5,7 +5,7 @@ import com.jzo2o.foundations.model.dto.response.ServeSimpleResDTO;
 import java.util.List;
 
 /**
- * @author itcast
+ *
  */
 public interface ServeAggregationService {
 

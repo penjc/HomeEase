@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 服务表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 @Data

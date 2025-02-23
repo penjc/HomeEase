@@ -13,7 +13,7 @@ import java.time.LocalDateTime;
  * 服务类型表
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-07-03
  */
 @Data

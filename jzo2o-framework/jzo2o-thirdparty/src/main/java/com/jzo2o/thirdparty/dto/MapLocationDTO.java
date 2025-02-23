@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 /**
  * 地图定位信息
  *
- * @author itcast
+ *
  * @create 2023/7/11 09:31
  **/
 @Data

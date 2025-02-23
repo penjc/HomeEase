@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 订单支付响应体
  *
- * @author itcast
+ *
  * @create 2023/9/4 10:00
  **/
 @Data

@@ -16,7 +16,7 @@ import javax.annotation.Resource;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author itcast
+ *
  */
 @RestController
 @RequestMapping("/inner/serve")

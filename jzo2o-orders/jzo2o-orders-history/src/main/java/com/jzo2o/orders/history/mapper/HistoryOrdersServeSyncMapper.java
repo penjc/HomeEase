@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 服务单 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-21
  */
 public interface HistoryOrdersServeSyncMapper extends BaseMapper<HistoryOrdersServeSync> {

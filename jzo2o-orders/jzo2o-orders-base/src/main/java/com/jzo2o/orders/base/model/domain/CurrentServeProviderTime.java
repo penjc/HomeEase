@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 机构服务端更新服务时间
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-08-08
  */
 @Data

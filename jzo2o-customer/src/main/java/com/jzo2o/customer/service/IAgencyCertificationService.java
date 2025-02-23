@@ -10,7 +10,7 @@ import com.jzo2o.customer.model.dto.response.AgencyCertificationResDTO;
  * 机构认证信息表 服务类
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-06
  */
 public interface IAgencyCertificationService extends IService<AgencyCertification> {

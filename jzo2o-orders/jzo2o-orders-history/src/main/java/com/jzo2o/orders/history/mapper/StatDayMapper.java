@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Param;
  * 日统计表 Mapper 接口
  * </p>
  *
- * @author itcast
+ *
  * @since 2023-09-21
  */
 public interface StatDayMapper extends BaseMapper<StatDay> {

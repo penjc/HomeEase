@@ -31,7 +31,7 @@ import java.util.Random;
 /**
  * SpringCache配置
  *
- * @author itcast
+ *
  * @create 2023/8/15 10:04
  **/
 @Configuration

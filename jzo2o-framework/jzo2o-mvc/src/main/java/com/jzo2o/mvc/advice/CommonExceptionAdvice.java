@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import static com.jzo2o.mvc.constants.HeaderConstants.BODY_PROCESSED;
 
 /**
- * @author itcast
+ *
  */
 @RestControllerAdvice
 @Slf4j
