@@ -53,7 +53,7 @@ swagger:
   package-path: com.jzo2o.orders.dispatch.controller
   title: 家政服务派单模块接口文档
   description: 用于管理派单策略，派单以及派单管理
-  contact-name: 传智教育·研究院
+
   contact-url: http://www.itcast.cn/
   contact-email: yjy@itcast.cn
   version: v1.0

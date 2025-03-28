@@ -38,6 +38,40 @@ public class XxlJobHandler {
      */
     @XxlJob("seizeCouponSyncJob")
     public void seizeCouponSyncJob() {
+        //开启十个线程（对应十个队列）
+        // for(int index = 0; index < this.redisSyncProperties.getQueueNum(); ++index) {
+        //线程的 run方法
+        //分布式锁，锁的key对应一个队列
+        //从同步队列中获取数据，处理数据，处理完删除对应同步队列中的key
+        /**
+         * String lockName = "LOCK:" + RedisSyncQueueUtils.getQueueRedisKey(this.queueName, this.index);
+         *         RLock lock = this.redissonClient.getLock(lockName);
+         *
+         *         try {
+         *             if (lock.tryLock(0L, -1L, TimeUnit.SECONDS)) {
+         *                 List<SyncMessage<T>> data = null;
+         *
+         *                 while(CollUtils.isNotEmpty(data = this.getData())) {
+         *                     this.process(data);
+         *
+         *                     try {
+         *                         Thread.sleep(500L);
+         *                     } catch (InterruptedException e) {
+         *                         throw new RuntimeException(e);
+         *                     }
+         *                 }
+         *
+         *                 return;
+         *             }
+         *         } catch (Exception var10) {
+         *             return;
+         *         } finally {
+         *             if (lock != null && lock.isLocked()) {
+         *                 lock.unlock();
+         *             }
+         *
+         *         }
+         */
         syncManager.start(COUPON_SEIZE_SYNC_QUEUE_NAME, RedisSyncQueueConstants.STORAGE_TYPE_HASH, RedisSyncQueueConstants.MODE_SINGLE,threadPoolExecutor);
     }
 
